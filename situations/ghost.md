@@ -1,0 +1,1 @@
+You got a heart attack from seeing the ghost. You Died!

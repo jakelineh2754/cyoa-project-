@@ -1,0 +1,1 @@
+Since the clown is attacking you did you take those karate classes and know how fight or are you terrible?
