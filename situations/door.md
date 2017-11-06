@@ -1,1 +1,4 @@
-You come across a door while walking towards the house do you go inside, go through the back or turn around and leave? 
+How will you like to enter the house?  
+Front door  
+Back door  
+Change your mind and walk away

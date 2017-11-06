@@ -1,1 +1,3 @@
-Since the clown is attacking you did you take those karate classes and know how fight or are you terrible?
+You are being viciously attacked. How are your fighting skills?  
+Good  
+Bad
