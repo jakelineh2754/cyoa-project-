@@ -1,3 +1,3 @@
 Are you tired?  
-Yes  
-No
+[Yes](die.md)
+[No](survive.md)

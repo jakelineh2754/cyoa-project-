@@ -1,3 +1,3 @@
 You are being viciously attacked. How are your fighting skills?  
-Good  
-Bad
+[Good](survive.md)  
+[Bad](die.md)

@@ -1,4 +1,4 @@
 How will you like to enter the house?  
-Front door  
-Back door  
-Change your mind and walk away
+[Front door](killer.md)  
+[Back door](ghost.md)  
+[Change your mind and walk away](chase.md)
