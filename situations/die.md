@@ -1,3 +1,3 @@
-You were tired and too slow sorry your journey ended you died!
+You were weak and too tired to react, your journey has ended you died!
 
 [Start Over](../README.md)
